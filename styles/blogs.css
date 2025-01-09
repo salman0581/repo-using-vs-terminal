@@ -5,3 +5,6 @@ div{
 h3{
     color: blue;
 }
+image{
+    resize: both;
+}
